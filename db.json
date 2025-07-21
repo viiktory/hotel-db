@@ -1033,5 +1033,31 @@
             "description": "A guide to choosing hotels with kid-friendly amenities, entertainment, and safety...",
             "date": "February 20, 2025"
         }
+    ],
+    "advantages": [
+        {
+            "id": "1",
+            "icon": "FaRegSmile",
+            "title": "Easy-to-use Interface",
+            "description": "Fast and efficient bookings with a simple and user-friendly design."
+        },
+        {
+            "id": "2",
+            "icon": "FaHotel",
+            "title": "Wide Range of Hotels",
+            "description": "Access to hotels of all kinds, from luxury stays to budget-friendly options."
+        },
+        {
+            "id": "3",
+            "icon": "FaDollarSign",
+            "title": "Transparent Pricing",
+            "description": "No hidden fees — what you see is what you pay for."
+        },
+        {
+            "id": "4",
+            "icon": "FaStar",
+            "title": "Personalized Recommendations",
+            "description": "Tailored suggestions based on your preferences and past choices."
+        }
     ]
 }
