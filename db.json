@@ -1058,6 +1058,18 @@
             "icon": "FaStar",
             "title": "Personalized Recommendations",
             "description": "Tailored suggestions based on your preferences and past choices."
+        },
+        {
+            "id": "5",
+            "icon": "FaRegSmile",
+            "title": "24/7 Support",
+            "description": "Our support team is always available to help you with any questions or issues."
+        },
+        {
+            "id": "6",
+            "icon": "FaHotel",
+            "title": "Verified Reviews",
+            "description": "Read real, verified guest reviews to make confident booking decisions."
         }
     ]
 }
