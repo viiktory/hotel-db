@@ -962,36 +962,41 @@
     ],
     "reviews": [
         {
+            "id": "1",
             "name": "Anna R.",
-            "photo": "/assets/images/customers/anna.jpg",
+            "avatar": "/assets/images/customers/anna.jpg",
             "text": "Booking with Start Over was so easy!",
-            "image": "/assets/images/hotels/hotel1.jpeg",
-            "rating": 5
-        },
-        {
-            "name": "Michael T.",
-            "photo": "/assets/images/customers/michael.jpg",
-            "text": "Affordable prices and great recommendations. Definitely my go-to platform!",
-            "image": "/assets/images/hotels/hotel2.jpeg",
+            "hotelImage": "/assets/images/hotels/hotel1.jpeg",
             "rating": 4
         },
         {
-            "name": "Sophia L.",
-            "photo": "/assets/images/customers/sophia.jpg",
-            "text": "The user interface is super intuitive. I love how quickly I can compare hotels and book the one I like!",
-            "image": "/assets/images/hotels/hotel3.jpeg",
+            "id": "2",
+            "name": "Michael T.",
+            "avatar": "/assets/images/customers/michael.jpg",
+            "text": "Affordable prices and great recommendations. Definitely my go-to platform!",
+            "hotelImage": "/assets/images/hotels/hotel2.jpeg",
             "rating": 5
         },
         {
-            "name": "John D.",
-            "photo": "/assets/images/customers/john.jpg",
-            "text": "Fantastic service and a seamless booking experience. Highly recommended!",
-            "image": "/assets/images/hotels/hotel4.jpeg",
+            "id": "3",
+            "name": "Sophia L.",
+            "avatar": "/assets/images/customers/sophia.jpg",
+            "text": "The user interface is super intuitive. I love how quickly I can compare hotels and book the one I like!",
+            "hotelImage": "/assets/images/hotels/hotel3.jpeg",
             "rating": 5
+        },
+        {
+            "id": "4",
+            "name": "John D.",
+            "avatar": "/assets/images/customers/john.jpg",
+            "text": "Fantastic service and a seamless booking experience. Highly recommended!",
+            "hotelImage": "/assets/images/hotels/hotel4.jpeg",
+            "rating": 4
         }
     ],
     "posts": [
         {
+            "id": "1",
             "image": "hotels",
             "alt": "Hotel room with modern amenities",
             "title": "How to Choose the Best hotels for Your Trip",
@@ -999,6 +1004,7 @@
             "date": "January 25, 2025"
         },
         {
+            "id": "2",
             "image": "new-york-city",
             "alt": "New York City skyline with iconic buildings",
             "title": "Top 5 Travel Destinations in 2025",
@@ -1006,6 +1012,7 @@
             "date": "January 25, 2025"
         },
         {
+            "id": "3",
             "image": "packing",
             "alt": "Top things for a Vacation",
             "title": "Packing Tips for a Perfect Vacation",
@@ -1013,6 +1020,7 @@
             "date": "January 25, 2025"
         },
         {
+            "id": "4",
             "image": "deals",
             "alt": "Person checking minute hotel deals on a smartphone",
             "title": "Last Minute Hotel Deals: How to Book at the Best Price",
@@ -1020,6 +1028,7 @@
             "date": "February 25, 2025"
         },
         {
+            "id": "5",
             "image": "save-money",
             "alt": "Traveler saving money while booking a hotel",
             "title": "Smart Budgeting: How to Save Money on Hotel Bookings",
@@ -1027,6 +1036,7 @@
             "date": "February 10, 2025"
         },
         {
+            "id": "6",
             "image": "hotels",
             "alt": "Happy family enjoying their stay at a hotel",
             "title": "Best Family Friendly Hotels for a Perfect Vacation",
