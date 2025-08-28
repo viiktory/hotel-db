@@ -454,7 +454,12 @@
             "alt": "Hotel room with modern amenities",
             "title": "How to Choose the Best hotels for Your Trip",
             "description": "Learn about key factors to consider when booking hotels...",
-            "date": "January 25, 2025"
+            "date": "September 25, 2025",
+            "category": "Hotels",
+            "author": "Viktoria Travel Blog",
+            "readTime": "6 min read",
+            "views": 1250,
+            "likes": 220
         },
         {
             "id": "2",
@@ -462,7 +467,12 @@
             "alt": "New York City skyline with iconic buildings",
             "title": "Top 5 Travel Destinations in 2025",
             "description": "Discover the top travel destinations for 2025...",
-            "date": "January 25, 2025"
+            "date": "June 4, 2025",
+            "category": "Destinations",
+            "author": "John Smith",
+            "readTime": "5 min read",
+            "views": 980,
+            "likes": 150
         },
         {
             "id": "3",
@@ -470,7 +480,12 @@
             "alt": "Top things for a Vacation",
             "title": "Packing Tips for a Perfect Vacation",
             "description": "Essential packing tips to ensure you have everything...",
-            "date": "January 25, 2025"
+            "date": "April  13, 2025",
+            "category": "Travel Tips",
+            "author": "Emily Johnson",
+            "readTime": "4 min read",
+            "views": 740,
+            "likes": 120
         },
         {
             "id": "4",
@@ -478,7 +493,12 @@
             "alt": "Person checking minute hotel deals on a smartphone",
             "title": "Last Minute Hotel Deals: How to Book at the Best Price",
             "description": "Learn how to find and book the best last-minute hotel deals to save money...",
-            "date": "February 25, 2025"
+            "date": "May 5, 2025",
+            "category": "Budget Travel",
+            "author": "Michael Brown",
+            "readTime": "7 min read",
+            "views": 1580,
+            "likes": 310
         },
         {
             "id": "5",
@@ -486,7 +506,12 @@
             "alt": "Traveler saving money while booking a hotel",
             "title": "Smart Budgeting: How to Save Money on Hotel Bookings",
             "description": "Discover tips and tricks to get the best hotel deals without compromising comfort...",
-            "date": "February 10, 2025"
+            "date": "February 10, 2025",
+            "category": "Budget Travel",
+            "author": "Sarah Lee",
+            "readTime": "5 min read",
+            "views": 1100,
+            "likes": 180
         },
         {
             "id": "6",
@@ -494,7 +519,51 @@
             "alt": "Happy family enjoying their stay at a hotel",
             "title": "Best Family Friendly Hotels for a Perfect Vacation",
             "description": "A guide to choosing hotels with kid-friendly amenities, entertainment, and safety...",
-            "date": "February 20, 2025"
+            "date": "September  20, 2025",
+            "category": "Family Travel",
+            "author": "Anna White",
+            "readTime": "6 min read",
+            "views": 1320,
+            "likes": 240
+        },
+        {
+            "id": "7",
+            "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0",
+            "alt": "Eco-friendly hotel surrounded by nature",
+            "title": "Eco-Friendly Hotels: Travel Sustainably in 2025",
+            "description": "Discover the best eco-conscious hotels that combine sustainability with unforgettable experiences...",
+            "date": "October 12, 2025",
+            "category": "Sustainable Travel",
+            "author": "David Green",
+            "readTime": "5 min read",
+            "views": 890,
+            "likes": 140
+        },
+        {
+            "id": "8",
+            "image": "https://images.unsplash.com/photo-1528909514045-2fa4ac7a08ba?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0",
+            "alt": "Traveler working remotely in a cozy hotel lobby",
+            "title": "Best Hotels for Remote Work and Digital Nomads",
+            "description": "Find out which hotels provide the perfect blend of comfort, Wi-Fi speed, and coworking spaces...",
+            "date": "November 2, 2025",
+            "category": "Work & Travel",
+            "author": "Laura Martinez",
+            "readTime": "6 min read",
+            "views": 1430,
+            "likes": 260
+        },
+        {
+            "id": "9",
+            "image": "https://images.unsplash.com/photo-1502920514313-52581002a659?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0",
+            "alt": "Luxury hotel room with ocean view",
+            "title": "Top Luxury Hotels with Stunning Ocean Views",
+            "description": "Explore breathtaking luxury hotels around the world offering spectacular seaside views...",
+            "date": "December 15, 2025",
+            "category": "Luxury Travel",
+            "author": "Sophia Brown",
+            "readTime": "7 min read",
+            "views": 1670,
+            "likes": 310
         }
     ],
     "advantages": [
