@@ -411,6 +411,192 @@
                 "Room Service",
                 "Fitness Center"
             ]
+        },
+        {
+            "id": 21,
+            "name": "Grand Central Hotel",
+            "address": "123 Main St, Manhattan",
+            "city": "New York",
+            "country": "USA",
+            "hotel_rating": 4.5,
+            "phone_number": "+1 212-555-1234",
+            "image": "https://plus.unsplash.com/premium_photo-1694475027390-8fd837fb67e8?q=80&w=705&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Grand Central Hotel offers spacious rooms with skyline views, modern interiors, and easy access to the city's top attractions.",
+            "stars": 5,
+            "price_per_night": 210,
+            "amenities": [
+                "Free WiFi",
+                "Gym",
+                "Restaurant",
+                "Room Service",
+                "Bar",
+                "Airport Shuttle"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Central Park Inn",
+            "address": "456 Park Ave, Manhattan",
+            "city": "New York",
+            "country": "USA",
+            "hotel_rating": 4.2,
+            "phone_number": "+1 212-555-5678",
+            "image": "https://images.unsplash.com/photo-1684050139459-3f8837803b3a?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Central Park Inn features cozy rooms, a rooftop terrace, and is just steps away from Central Park.",
+            "stars": 4,
+            "price_per_night": 160,
+            "amenities": [
+                "Free WiFi",
+                "Restaurant",
+                "Bar",
+                "Air Conditioning",
+                "Pet Friendly"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Times Square Suites",
+            "address": "789 Broadway, Manhattan",
+            "city": "New York",
+            "country": "USA",
+            "hotel_rating": 4.8,
+            "phone_number": "+1 212-555-9012",
+            "image": "https://images.unsplash.com/photo-1698870157085-11632d2ddef8?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Times Square Suites offers luxury accommodation with panoramic views, fine dining, and premium services in the heart of Manhattan.",
+            "stars": 5,
+            "price_per_night": 320,
+            "amenities": [
+                "Free WiFi",
+                "Spa",
+                "Fitness Center",
+                "Restaurant",
+                "Swimming Pool",
+                "Concierge Service"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The Londoner",
+            "address": "10 Leicester Square",
+            "city": "London",
+            "country": "UK",
+            "hotel_rating": 4.6,
+            "phone_number": "+44 20 7946 0000",
+            "image": "https://plus.unsplash.com/premium_photo-1677343839916-6e669f0483ba?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "The Londoner blends modern elegance with a central location, offering stylish rooms and first-class dining.",
+            "stars": 5,
+            "price_per_night": 280,
+            "amenities": [
+                "Free WiFi",
+                "Restaurant",
+                "Bar",
+                "Spa",
+                "Airport Shuttle",
+                "Meeting Rooms"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The Savoy",
+            "address": "Strand, London",
+            "city": "London",
+            "country": "UK",
+            "hotel_rating": 4.9,
+            "phone_number": "+44 20 7836 4343",
+            "image": "https://images.unsplash.com/photo-1605488966977-a0eb707550c0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "The Savoy is an iconic London landmark, offering timeless luxury, riverside views, and world-class service.",
+            "stars": 5,
+            "price_per_night": 400,
+            "amenities": [
+                "Free WiFi",
+                "Spa",
+                "Restaurant",
+                "Concierge Service",
+                "Swimming Pool",
+                "Airport Shuttle"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Royal Garden Hotel",
+            "address": "2-24 Kensington High St",
+            "city": "London",
+            "country": "UK",
+            "hotel_rating": 4.4,
+            "phone_number": "+44 20 7937 1000",
+            "image": "https://images.unsplash.com/photo-1737039865879-35b71abaffa5?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Royal Garden Hotel overlooks Kensington Gardens and offers modern amenities, elegant rooms, and fine dining.",
+            "stars": 4,
+            "price_per_night": 220,
+            "amenities": [
+                "Free WiFi",
+                "Restaurant",
+                "Bar",
+                "Room Service",
+                "Fitness Center"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Hotel Le Meurice",
+            "address": "228 Rue de Rivoli",
+            "city": "Paris",
+            "country": "France",
+            "hotel_rating": 4.7,
+            "phone_number": "+33 1 44 58 10 10",
+            "image": "https://images.unsplash.com/photo-1716831309985-48246936fe42?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Central Park Inn features cozy rooms, a rooftop terrace, and is just steps away from Central Park.",
+            "stars": 4,
+            "price_per_night": 160,
+            "amenities": [
+                "Free WiFi",
+                "Restaurant",
+                "Bar",
+                "Air Conditioning",
+                "Pet Friendly"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Hotel Lutetia",
+            "address": "45 Boulevard Raspail",
+            "city": "Paris",
+            "country": "France",
+            "hotel_rating": 4.5,
+            "phone_number": "+33 1 49 54 46 00",
+            "image": "https://plus.unsplash.com/premium_photo-1742454193796-68978b1f24ee?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "The Londoner blends modern elegance with a central location, offering stylish rooms and first-class dining.",
+            "stars": 5,
+            "price_per_night": 280,
+            "amenities": [
+                "Free WiFi",
+                "Restaurant",
+                "Bar",
+                "Spa",
+                "Airport Shuttle",
+                "Meeting Rooms"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Le Bristol Paris",
+            "address": "112 Rue du Faubourg Saint-Honoré",
+            "city": "Paris",
+            "country": "France",
+            "hotel_rating": 4.9,
+            "phone_number": "+33 1 53 43 43 00",
+            "image": "https://images.unsplash.com/photo-1646139501502-092ea1087775?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "The Londoner blends modern elegance with a central location, offering stylish rooms and first-class dining.",
+            "stars": 5,
+            "price_per_night": 280,
+            "amenities": [
+                "Free WiFi",
+                "Restaurant",
+                "Bar",
+                "Spa",
+                "Airport Shuttle",
+                "Meeting Rooms"
+            ]
         }
     ],
     "reviews": [
