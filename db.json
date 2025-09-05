@@ -789,5 +789,31 @@
             "title": "Verified Reviews",
             "description": "Read real, verified guest reviews to make confident booking decisions."
         }
+    ],
+    "faqData": [
+        {
+            "title": "How to book a hotel?",
+            "text": "You choose the hotel, dates of stay and room, then fill in the contact details and confirm the reservation. You will receive a confirmation by email."
+        },
+        {
+            "title": "Do you need to make a prepayment?",
+            "text": "It depends on the rules of the specific hotel. Some require prepayment, others allow payment at the time of check-in. The conditions are always indicated at the time of booking."
+        },
+        {
+            "title": "Can I cancel my reservation?",
+            "text": "Yes, most hotels allow free cancellation up to a certain date. You will find cancellation conditions in the room description before confirmation."
+        },
+        {
+            "title": "How to change the dates of my reservation?",
+            "text": "You can change the dates by contacting our support service or directly with the hotel. Change conditions depend on the policy of the specific hotel."
+        },
+        {
+            "title": "Are there hidden charges?",
+            "text": "No, when booking you see the full price of the stay. If the hotel has additional services (for example, parking or food), they are listed separately."
+        },
+        {
+            "title": "What should I do if I have not received a booking confirmation?",
+            "text": "Check the Spam folder in your mail. If there is no confirmation, please contact our support team - we will quickly solve the problem."
+        }
     ]
 }
